@@ -29,7 +29,7 @@ ANONYMOUS U7P4L
 ```python
  cd SMS
 
- python Sms.py
+ python SMS.py
 ```
 
 

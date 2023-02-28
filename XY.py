@@ -1,9 +1,7 @@
-import os,requests,time
-time.sleep(1)
+import requests,os
 os.system("clear")
 os.system("xdg-open https://github.com/U7P4L-IN ")
-zahin=("""
-
+zahin="""
 
 \033[1;99m╔════════════════════════════════════════════════════════════════════╗    
 \033[1;92m█ \033[1;91m##     ##\033[1;93m ######### \033[1;94m########  \033[1;95m##        \033[1;32m##           \033[1;91m#### \033[1;93m##    ## \033[1;92m█

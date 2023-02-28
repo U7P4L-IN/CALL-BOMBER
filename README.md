@@ -13,7 +13,7 @@ U7P4L IN
 
 </br>
 <p align="center">
-      ⚡Random ID Cloning Tools⚡
+      Unlimited Sms Bombing in your target Victims phone number.
 
 </p>
   

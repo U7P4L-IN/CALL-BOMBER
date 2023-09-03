@@ -1,47 +1,30 @@
-<p align="center">
-A call bomber is a malicious software or app that is designed to bombard a person’s phone with repeated calls, SMS messages, or even missed calls123. The idea behind a call bomber is to irritate, harass, or even intimidate the person being targeted1. Call bombers are usually used as a form of revenge, prank, or even cyberbullying
+<p align="center"><img src="https://github.com/U7P4L-IN/CALL-BOMBER/blob/master/image/github-header-image.png">
 
-Welcome⚡
---------|
-![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
+<p align="left">
 
-
-
-AUTHOR:
-<p align="center">
-U7P4L IN
-
-</br>
-<p align="center">
-      Unlimited Sms Bombing in your target Victims phone number.
+🔰A call bomber is a malicious software or app that is designed to bombard a person’s phone with repeated calls, SMS messages, or even missed calls123. The idea behind a call bomber is to irritate, harass, or even intimidate the person being targeted1. Call bombers are usually used as a form of revenge, prank, or even cyberbullying🔰
 
 </p>
   
 #### INSTALL TOOL ON TERMUX
 ```python
- pkg update
- pkg upgrade
- pkg install python
- pkg install git
- pip install requests
- pip install bs4
- pip install futures
- pip install mechanize
- cd $HOME 
- rm -rf SMS-BOMBING
- git clone --depth=1 https://github.com/U7P4L-IN/SMS-BOMBING.git
+apt update && apt upgrade -y
 
- cd SMS-BOMBING
+pkg install git
 
- ls
+pkg install python
+rm -rf SET-UP
+git clone --depth=1 https://github.com/U7P4L-IN/CALL-BOMBER.git
 
- python SMS.py
+cd CALL-BOMBER
+
+python BOMBER.py
 ```
+
 #### Screenshots:
 
-<p align="center"><img src="https://github.com/U7P4L-IN/SMS-BOMBING/blob/main/IMG_20230228_223104.jpg">
-
+<p align="center"><img src="https://github.com/U7P4L-IN/CALL-BOMBER/blob/master/image/GridArt_20230903_112405083.jpg">
 
 #### Tools Languages :
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=SMS-BOMBING&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=U7P4L-IN&repo=CALL-BOMBER&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)

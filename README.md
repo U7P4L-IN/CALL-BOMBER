@@ -1,5 +1,5 @@
 <p align="center">
-
+A call bomber is a malicious software or app that is designed to bombard a person’s phone with repeated calls, SMS messages, or even missed calls123. The idea behind a call bomber is to irritate, harass, or even intimidate the person being targeted1. Call bombers are usually used as a form of revenge, prank, or even cyberbullying
 
 Welcome⚡
 --------|

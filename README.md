@@ -22,6 +22,7 @@ python BOMBER.py
 ```
 
 #### Screenshots:
+<p align="center"><img src="https://github.com/U7P4L-IN/CALL-BOMBER/blob/master/image/ScreenShot_20230903144220.png">
 
 <p align="center"><img src="https://github.com/U7P4L-IN/CALL-BOMBER/blob/master/image/GridArt_20230903_112405083.jpg">
 
